@@ -1,0 +1,4 @@
+﻿  final2.c
+D:\Myproject\VsProject\final2\final2.c(14,63): warning C4098: 'count': 'void' 函式正在傳回值
+D:\Myproject\VsProject\final2\final2.c(21,2): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  final2.vcxproj -> D:\Myproject\VsProject\final2\x64\Debug\final2.exe

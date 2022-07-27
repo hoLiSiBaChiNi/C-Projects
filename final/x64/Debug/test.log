@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Myproject\VsProject\test\test.c(10,36): warning C4013: 'Fox' 未定義; 假設 extern 傳回整數
+D:\Myproject\VsProject\test\test.c(24,2): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  test.vcxproj -> D:\Myproject\VsProject\test\x64\Debug\test.exe
