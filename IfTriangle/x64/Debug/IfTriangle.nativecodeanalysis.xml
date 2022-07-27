@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>已忽略傳回值: 'scanf'。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>已忽略傳回值: 'scanf'。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>已忽略傳回值: 'scanf'。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>算術溢位: 對 4 位元組值使用運算子 '*'，然後將結果轉換為 8 位元組值。將值轉換為較廣的類型後，再呼叫運算子 '*' 以免發生溢位 (io.2)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>算術溢位: 對 4 位元組值使用運算子 '*'，然後將結果轉換為 8 位元組值。將值轉換為較廣的類型後，再呼叫運算子 '*' 以免發生溢位 (io.2)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Myproject\VsProject\IfTriangle\</FILEPATH>
+      <FILENAME>IfTriangle.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>43</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>算術溢位: 對 4 位元組值使用運算子 '*'，然後將結果轉換為 8 位元組值。將值轉換為較廣的類型後，再呼叫運算子 '*' 以免發生溢位 (io.2)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

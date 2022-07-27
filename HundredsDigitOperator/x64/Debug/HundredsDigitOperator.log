@@ -1,0 +1,4 @@
+﻿  HundredsDigitOperator.c
+D:\Myproject\VsProject\HundredsDigitOperator\HundredsDigitOperator.c(24,5): warning C4047: '!=': 'int' 與 'char [2]' 間接取值的層級不同
+D:\Myproject\VsProject\HundredsDigitOperator\HundredsDigitOperator.c(28,5): warning C4047: '!=': 'int' 與 'char [2]' 間接取值的層級不同
+  HundredsDigitOperator.vcxproj -> D:\Myproject\VsProject\HundredsDigitOperator\x64\Debug\HundredsDigitOperator.exe
